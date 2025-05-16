@@ -1,4 +1,4 @@
-# 🛠️ IT Support Lab: Automated Help Desk Toolkit
+#  IT Support Lab: Automated Help Desk Toolkit
 
 This is a simulated IT support project built to showcase real-world IT skills for entry-level roles. It includes automation scripts, troubleshooting guides, and help desk ticket simulations.
 
